@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# Artifacts
+node_modules/
+dist/
+
+# Editor
+.vscode
+coverage/
