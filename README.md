@@ -1,6 +1,6 @@
 # CodeChallenge project
 
-Time spent ~ 4.5 hours (Monday: 19:30 - 00:10)
+Time spent ~ 4.5 hours (Monday: 19:30 - 00:18)
 
 What I did differently than normal. Vue is my least used framework compared to React and Angular. I have never used it outside of some personal projects. So I had the docs in hand while writing. One thing I am NOT fully familiar with yet are the best practices within Vue. So I tried to stick as close to the linters as possible.
 
@@ -36,13 +36,12 @@ The stack choices I have made coincide with the ones from the company, that is w
 
 ## Methodologies
 
-- TDD
+- TDD (For the most part...)
 - PDD (performance driven development)
 - Functional mixed with OOP
 - Build first (pipeline was done first for rapid development)
 - Mock/Stub everything
 - Usage of container components
-- Avoid testing dumb components as they should not have logic
 
 ### How to run
 
@@ -55,8 +54,8 @@ npm start
 
 ### Apps will start at
 
-client: http://localhost:8080
-server: http://localhost:4200
+- client: http://localhost:8080
+- server: http://localhost:4200
 
 ### Extras
 
